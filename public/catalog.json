@@ -1,0 +1,63 @@
+{
+  "id": "listva",
+  "name": "листва",
+  "description": "Растения, которым понравится у вас.",
+  "products": [
+    {
+      "id": "l1",
+      "name": "Монстера",
+      "category": "Крупные",
+      "price": 3400,
+      "subtitle": "Высота 65 см · горшок 19 см",
+      "image": "assets/monstera.jpg",
+      "light": "medium",
+      "care": "easy",
+      "pet": false,
+      "stock": 12,
+      "material": "Живое растение",
+      "size": "65 см"
+    },
+    {
+      "id": "l2",
+      "name": "Пальма веерная",
+      "category": "Компактные",
+      "price": 1900,
+      "subtitle": "Высота 40 см · горшок 12 см",
+      "image": "assets/palm.jpg",
+      "light": "low",
+      "care": "medium",
+      "pet": false,
+      "stock": 16,
+      "material": "Живое растение",
+      "size": "40 см"
+    },
+    {
+      "id": "l3",
+      "name": "Замиокулькас",
+      "category": "Крупные",
+      "price": 2900,
+      "subtitle": "Высота 55 см · горшок 17 см",
+      "image": "assets/zz.jpg",
+      "light": "low",
+      "care": "easy",
+      "pet": false,
+      "stock": 10,
+      "material": "Живое растение",
+      "size": "55 см"
+    },
+    {
+      "id": "l4",
+      "name": "Пеперомия",
+      "category": "Компактные",
+      "price": 1400,
+      "subtitle": "Высота 25 см · горшок 10 см",
+      "image": "assets/peperomia.jpg",
+      "light": "medium",
+      "care": "easy",
+      "pet": true,
+      "stock": 20,
+      "material": "Живое растение",
+      "size": "25 см"
+    }
+  ]
+}
